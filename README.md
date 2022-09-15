@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankur-91sqft
 
-- 🌱 I’m currently learning - React
 - 💞️ I’m looking to collaborate on Python-Django Based Projects
 - 📫 How to reach me - insta- @ankurkumargupta, ankurkugupta5@gmail.com
 - 
